@@ -17,7 +17,7 @@ int main()
         cin>>d;
         b.push_back(d);
     }
-    unordered_map<long long,long long> m;
+    map<long long,long long> m;
     j=b.size()-1;
     i=a.size()-1;
     //a[i+1]=0;
