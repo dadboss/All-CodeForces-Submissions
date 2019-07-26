@@ -5,7 +5,7 @@ int main()
     long long t;
     cin>>t;
     cin.ignore();
-    unordered_map<string,int> m;
+    map<string,int> m;
     while(t--)
     {
         string s;
