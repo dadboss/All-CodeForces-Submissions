@@ -80,6 +80,6 @@ int main()
          }
          }
       }
-      cout<<b[1]<<"\n";
+      cout<<b[1]<<endl;
   }
 }
