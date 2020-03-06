@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
@@ -5,27 +6,22 @@ vector<ll> v[1000000];
 double ans =0.0;
 void dfs(double p,ll d,ll n,ll b)
 {
-  // 
-	ll i=0;
+	ll t=0,i=0;
 	while(i<v[n].size())
 	{
 		if(v[n][i]!=b)
-		{
-			if(n!=0)
-			dfs(p*1.0/(v[n].size()-1),d+1,v[n][i],n);
-			else
-			dfs(p*1.0/(v[n].size()),d+1,v[n][i],n);
-		}
+			t++;
 		i++;
 	}
-	// cout<<n<<" "<<b<<"\n";
-	if(v[n].size()==1)
+	i=0;
+	while(i<v[n].size())
 	{
-	   // cout<<p<<" "<<d<<" "<<n<<" "<<b<<" ";
-		ans+=1.0*p*d;
-	//	cout<<ans<<"\n";
-		return;
+		if(v[n][i]!=b)
+		dfs(p/t,d+1,v[n][i],n);
+		i++;
 	}
+	if(t==0)
+	ans+=p*d;
 }
 int main() {
 	ll x,a,b,n;
