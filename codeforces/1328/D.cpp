@@ -81,7 +81,7 @@ int main()
             i=0;
             while(i<n)
             {
-                cout<<1+i%2<<' ';
+                cout<<1+i%2<<" ";
                 i++;
             }
             cout<<"\n";
