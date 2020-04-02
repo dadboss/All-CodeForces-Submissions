@@ -11,13 +11,13 @@ using namespace std;
 #define OK cout<<"OK";
 ll m=1000000007;
 string s;
-ll dp[100009]={};
+ll dp[1000001]={};
 ll f(ll i)
 {
 
     if(i>=s.size())
         return 0;
-    if(dp[i]!=-1)
+    if(dp[i])
         return dp[i];
     if(s[i]=='w'||s[i]=='m')
     {
@@ -33,7 +33,6 @@ ll f(ll i)
 int main()
 {
     ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-    memset(dp,-1,sizeof(dp));
     cin>>s;
     s+='.';
     cout<<(1+f(0))%m;
