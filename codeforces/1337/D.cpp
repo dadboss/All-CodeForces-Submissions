@@ -13,8 +13,8 @@ using namespace std;
 #define NO cout<<"NO\n";
 #define No cout<<"No\n";
 #define all(v) (v).begin(),(v).end()
-#define f(a,b,c) (a-b)*(a-b)+(b-c)*(b-c)+(c-a)*(c-a)
-// inline ll f(ll a,ll b,ll c){return (a-b)*(a-b)+(b-c)*(b-c)+(c-a)*(c-a);}
+//#define f(a,b,c) (a-b)*(a-b)+(b-c)*(b-c)+(c-a)*(c-a)
+ inline ll f(ll a,ll b,ll c){return (a-b)*(a-b)+(b-c)*(b-c)+(c-a)*(c-a);}
 ll r[100000],g[100000],b[100000];
 int main()
 {
