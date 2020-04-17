@@ -15,6 +15,7 @@ using namespace std;
 #define all(v) (v).begin(),(v).end()
 ll t=0;
 vector<ll> a[200001];
+ll v[200001];
 vector<ll> z;
 void dfs(ll n,ll p,ll d)
 {
@@ -23,12 +24,13 @@ void dfs(ll n,ll p,ll d)
   for(auto x:a[n])
     if(x!=p)
       dfs(x,n,d+1);
-  z.pb(d+1+st-t);
+  v[n]=t-st;
+  z.pb(d+1-v[n]);
 }
 int main()
 {
   ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-  //freopen("input.txt", "r", stdin);
+ // freopen("input.txt", "r", stdin);
   //freopen("output.txt", "w", stdout);
   ll n,k,sum=0,l,r,i=0;
   cin>>n>>k;
