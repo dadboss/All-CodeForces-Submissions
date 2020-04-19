@@ -30,7 +30,7 @@ int main()
   i=0;
   while(i<n)
     cin>>c[i++];
-  unordered_map<ll,ll> m;
+  map<ll,ll> m;
   i=1;
   while(i<n)
   {
