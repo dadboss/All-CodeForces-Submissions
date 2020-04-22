@@ -7148,6 +7148,23 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF77687057": {
+    "contest_id": 611,
+    "language": "GNU C++17",
+    "path": "codeforces\\611\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "New Year and Domino",
+    "problem_url": "https://codeforces.com/contest/611/problem/C",
+    "submission_id": "CF77687057",
+    "submission_url": "https://codeforces.com/contest/611/submission/77687057",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Apr/23/2020 00:21"
+  },
   "CF77688099": {
     "contest_id": 789,
     "language": "GNU C++17",
