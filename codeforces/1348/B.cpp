@@ -49,9 +49,9 @@ int main()
                 j++;
                 v.pb(1);
             }
-            deb(n*k);
+            deb(10000);
             i=0;
-            while(i<n*k)
+            while(i<10000)
             {
                 cout<<v[i%v.size()]<<" ";
                 i++;
