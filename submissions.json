@@ -7148,6 +7148,23 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF79110414": {
+    "contest_id": 485,
+    "language": "GNU C++17",
+    "path": "codeforces\\485\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bits",
+    "problem_url": "https://codeforces.com/contest/485/problem/C",
+    "submission_id": "CF79110414",
+    "submission_url": "https://codeforces.com/contest/485/submission/79110414",
+    "tags": [
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/06/2020 11:24"
+  },
   "CF79110780": {
     "contest_id": 202,
     "language": "GNU C++17",
