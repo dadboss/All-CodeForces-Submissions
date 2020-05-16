@@ -7148,6 +7148,25 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF80365691": {
+    "contest_id": 1355,
+    "language": "GNU C++17",
+    "path": "codeforces\\1355\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Count Triangles",
+    "problem_url": "https://codeforces.com/contest/1355/problem/C",
+    "submission_id": "CF80365691",
+    "submission_url": "https://codeforces.com/contest/1355/submission/80365691",
+    "tags": [
+      "binary search",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "May/16/2020 18:46"
+  },
   "CF80455625": {
     "contest_id": 1354,
     "language": "GNU C++17",
