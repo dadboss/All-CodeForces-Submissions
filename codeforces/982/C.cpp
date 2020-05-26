@@ -22,7 +22,7 @@ void dfs(ll n,ll p)
 	for(auto x:a[n])
 		if(x!=p)
 			dfs(x,n);
-	if((t-temp)%2==0)
+	if((t-temp)%2==0&&p!=-1)
 		ans++;
 }
 int main()
@@ -46,5 +46,5 @@ int main()
   	i++;
   }
   dfs(1,-1);
-  deb(ans-1)
+  deb(ans)
 }
