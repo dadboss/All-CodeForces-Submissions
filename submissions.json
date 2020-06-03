@@ -7148,6 +7148,25 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF82404615": {
+    "contest_id": 548,
+    "language": "GNU C++17",
+    "path": "codeforces\\548\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike and Fun",
+    "problem_url": "https://codeforces.com/contest/548/problem/B",
+    "submission_id": "CF82404615",
+    "submission_url": "https://codeforces.com/contest/548/submission/82404615",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jun/03/2020 19:44"
+  },
   "CF82406210": {
     "contest_id": 982,
     "language": "GNU C++17",
