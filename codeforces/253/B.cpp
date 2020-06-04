@@ -34,5 +34,14 @@ int main()
     ans=min(ans,i+n-j);
     i++;
   }
+  j=n-1;
+  i=n-1;
+  while(j>-1)
+  {
+    while(i>-1&&a[j]<=2*a[i])
+      i--;
+    ans=min(ans,n-j+i);
+    j--;
+  }
   deb(ans)
 }
