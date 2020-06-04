@@ -7148,6 +7148,23 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF82466902": {
+    "contest_id": 996,
+    "language": "GNU C++17",
+    "path": "codeforces\\996\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "World Cup",
+    "problem_url": "https://codeforces.com/contest/996/problem/B",
+    "submission_id": "CF82466902",
+    "submission_url": "https://codeforces.com/contest/996/submission/82466902",
+    "tags": [
+      "binary search",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/04/2020 14:44"
+  },
   "CF82470221": {
     "contest_id": 253,
     "language": "GNU C++17",
