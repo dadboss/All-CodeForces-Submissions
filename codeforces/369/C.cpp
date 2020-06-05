@@ -26,7 +26,7 @@ ll dfs(ll n,ll p)
       ans+=dfs(x,n);
     }
   }
-  if(ans==0&&m.find({n,p})!=m.end())
+  if(ans==0&&(m.find({n,p})!=m.end()||m.find({p,n})!=m.end()))
     {
       v.pb(n);
       ans++;
@@ -49,7 +49,7 @@ int main()
     a[r].pb(l);
     if(x-1)
     {
-      m[{l,r}]=m[{r,l}]=1;
+      m[{l,r}]=1;
     }
   }
   deb(dfs(1,-1));
