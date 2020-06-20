@@ -7148,6 +7148,23 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF84415817": {
+    "contest_id": 225,
+    "language": "GNU C++17",
+    "path": "codeforces\\225\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Barcode",
+    "problem_url": "https://codeforces.com/contest/225/problem/C",
+    "submission_id": "CF84415817",
+    "submission_url": "https://codeforces.com/contest/225/submission/84415817",
+    "tags": [
+      "dp",
+      "matrices",
+      "*1700"
+    ],
+    "timestamp": "Jun/20/2020 18:31"
+  },
   "CF84420342": {
     "contest_id": 745,
     "language": "GNU C++17",
