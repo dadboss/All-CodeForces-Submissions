@@ -7148,6 +7148,24 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF87852624": {
+    "contest_id": 459,
+    "language": "GNU C++17",
+    "path": "codeforces\\459\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pashmak and Buses",
+    "problem_url": "https://codeforces.com/contest/459/problem/C",
+    "submission_id": "CF87852624",
+    "submission_url": "https://codeforces.com/contest/459/submission/87852624",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Jul/24/2020 16:16"
+  },
   "CF87857270": {
     "contest_id": 519,
     "language": "GNU C++17",
