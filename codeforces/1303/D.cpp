@@ -32,7 +32,7 @@ int main()
   {
     cin>>n>>m;
     i=sum=0;
-    unordered_map<ll,ll> s;
+    map<ll,ll> s;
     while(i<m)
       {
         cin>>a[i];
