@@ -13,32 +13,37 @@ using namespace std;
 #define NO cout<<"NO\n";
 #define No cout<<"No\n";
 #define all(v) (v).begin(),(v).end()
-string h="hard",s;
-ll n,a[100009],dp[100009][5];
-ll f(ll i,ll k)
-{
-    if(k==4)
-    return 1e15;
-  //deB(i,k)
-  if(i==n)
-    return 0;
-  if(dp[i][k]!=-1)
-    return dp[i][k];
-  if(s[i]==h[k])
-    {
-      return dp[i][k]=min(a[i]+f(i+1,k),f(i+1,k+1));
-    }
-  return dp[i][k]=f(i+1,k);
-}
+ll a[100009];
 int main()
 {
   ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
   //freopen("input.txt", "r", stdin);
   //freopen("output.txt", "w", stdout);
-  memset(dp,-1,sizeof(dp));
+  ll n;
+  string s;
   cin>>n>>s;
   ll i=0;
   while(i<n)
     cin>>a[i++];
-  deb(f(0,0))
+  ll q=0,b=0,c=0,d=0;
+  i=0;
+  while(i<n)
+  {
+    if(s[i]=='h')
+    {
+      q+=a[i];
+    }
+    else if(s[i]=='a')
+    {
+      b=min(q,b+a[i]);
+    }
+    else if(s[i]=='r')
+    {
+      c=min(b,c+a[i]);
+    }
+    else if(s[i]=='d')
+      d=min(c,d+a[i]);
+    i++;
+  }
+  deb(d)
 }
