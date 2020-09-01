@@ -7148,6 +7148,26 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF91587824": {
+    "contest_id": 443,
+    "language": "GNU C++17",
+    "path": "codeforces\\443\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Andrey and Problem",
+    "problem_url": "https://codeforces.com/contest/443/problem/D",
+    "submission_id": "CF91587824",
+    "submission_url": "https://codeforces.com/contest/443/submission/91587824",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "probabilities",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Sep/01/2020 22:45"
+  },
   "CF91599637": {
     "contest_id": 1269,
     "language": "GNU C++17",
