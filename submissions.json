@@ -7148,6 +7148,23 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF91672947": {
+    "contest_id": 192,
+    "language": "GNU C++17",
+    "path": "codeforces\\192\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fools and Roads",
+    "problem_url": "https://codeforces.com/contest/192/problem/E",
+    "submission_id": "CF91672947",
+    "submission_url": "https://codeforces.com/contest/192/submission/91672947",
+    "tags": [
+      "data structures",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Sep/03/2020 01:51"
+  },
   "CF91780248": {
     "contest_id": 1207,
     "language": "GNU C++17",
