@@ -34,8 +34,6 @@ string s,p;
 ll n;
 ll f(ll i,ll k,ll sum)
 {
-  if(k==-1)
-    return INT_MIN;
   if(i==-1)
     return 0;
   //Deb(i,k,sum)
@@ -44,12 +42,30 @@ ll f(ll i,ll k,ll sum)
   if(s[i]==p[0]&&s[i]==p[1])
       return dp[i][k][sum]=sum+f(i-1,k,sum+1);
   if(s[i]==p[0])
-      return dp[i][k][sum]=max(sum+f(i-1,k,sum),f(i-1,k-1,sum+1));
+    {
+      dp[i][k][sum]=sum+f(i-1,k,sum);
+      if(k)
+        dp[i][k][sum]=max(dp[i][k][sum],f(i-1,k-1,sum+1));
+      return dp[i][k][sum];
+    }
   if(s[i]==p[1])
-    return dp[i][k][sum]=max(f(i-1,k,sum+1),sum+f(i-1,k-1,sum));
+    {
+      dp[i][k][sum]=f(i-1,k,sum+1);
+      if(k)
+        dp[i][k][sum]=max(dp[i][k][sum],sum+f(i-1,k-1,sum));
+      return dp[i][k][sum];
+    }
   if(p[0]==p[1])
-    return dp[i][k][sum]=max(f(i-1,k,sum),sum+f(i-1,k-1,sum+1));
-  return dp[i][k][sum]=max({sum+f(i-1,k-1,sum),f(i-1,k-1,sum+1),f(i-1,k,sum)});
+    {
+      dp[i][k][sum]=f(i-1,k,sum);
+      if(k)
+        dp[i][k][sum]=max(dp[i][k][sum],sum+f(i-1,k-1,sum+1));
+      return dp[i][k][sum];
+    }
+   dp[i][k][sum]=f(i-1,k,sum);
+   if(k)
+    dp[i][k][sum]=max({dp[i][k][sum],sum+f(i-1,k-1,sum),f(i-1,k-1,sum+1)});
+  return dp[i][k][sum];
 }
 int main()
 {
