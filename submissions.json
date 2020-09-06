@@ -7148,6 +7148,23 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF92094078": {
+    "contest_id": 721,
+    "language": "GNU C++17",
+    "path": "codeforces\\721\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Journey",
+    "problem_url": "https://codeforces.com/contest/721/problem/C",
+    "submission_id": "CF92094078",
+    "submission_url": "https://codeforces.com/contest/721/submission/92094078",
+    "tags": [
+      "dp",
+      "graphs",
+      "*1800"
+    ],
+    "timestamp": "Sep/07/2020 04:54"
+  },
   "CF92163789": {
     "contest_id": 1151,
     "language": "GNU C++17",
