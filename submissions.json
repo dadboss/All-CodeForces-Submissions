@@ -7148,6 +7148,25 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF92215267": {
+    "contest_id": 672,
+    "language": "GNU C++17",
+    "path": "codeforces\\672\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Recycling Bottles",
+    "problem_url": "https://codeforces.com/contest/672/problem/C",
+    "submission_id": "CF92215267",
+    "submission_url": "https://codeforces.com/contest/672/submission/92215267",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Sep/08/2020 19:08"
+  },
   "CF92222050": {
     "contest_id": 1407,
     "language": "GNU C++17",
