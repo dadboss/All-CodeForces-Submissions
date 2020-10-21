@@ -91,7 +91,13 @@ int main()
     }
     i++;
   } 
-  ll ans=INT_MAX;
+  ll ans=0;
+  i=0;
+  while(i<k)
+  {
+    ans+=d[p[i]][o[i]];
+    i++;
+  }
   i=0;
   while(i<m)
   {
