@@ -49,7 +49,7 @@ int main()
   }
   ll ba=a,bb=b,ans=LLONG_MAX;
   ll temp=a;
-  while(a<=10000000)
+  while(a<=1000000)
   {
     if(a*(n/a+(bool)n%a)<ans&&(n/a+(bool)n%a)>=b)
     {
@@ -60,7 +60,7 @@ int main()
     a++;
   }
   a=temp;
-  while(b<=10000000)
+  while(b<=1000000)
   {
     if(b*(n/b+bool(n%b))<ans&&(n/b+bool(n%b))>=a)
     {
