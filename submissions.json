@@ -7148,6 +7148,25 @@
     ],
     "timestamp": "Jan/24/2022 05:43"
   },
+  "CF98088136": {
+    "contest_id": 510,
+    "language": "GNU C++17",
+    "path": "codeforces\\510\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fox And Jumping",
+    "problem_url": "https://codeforces.com/contest/510/problem/D",
+    "submission_id": "CF98088136",
+    "submission_url": "https://codeforces.com/contest/510/submission/98088136",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Nov/11/2020 01:48"
+  },
   "CF98119460": {
     "contest_id": 612,
     "language": "GNU C++17",
