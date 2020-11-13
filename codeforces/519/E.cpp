@@ -84,17 +84,16 @@ ll lca(ll u, ll v)
 }
 ll upar(ll node,ll d)
 {
+	if(d==0)
+		return node;
 	ll i=LG-1;
 	while(i>-1)
 	{
 		if((1ll<<i)<=d)
-			{
-				node=par[i][node];
-				d-=(1ll<<i);
-			}
+			return upar(par[i][node],d-(1ll<<i));
 		i--;
 	}
-	return node;
+	return 0;
 }
 int main()
 {
