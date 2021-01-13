@@ -1,4 +1,20 @@
 {
+  "CF104213379": {
+    "contest_id": 1328,
+    "language": "GNU C++17",
+    "path": "codeforces\\1328\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Make k Equal",
+    "problem_url": "https://codeforces.com/contest/1328/problem/F",
+    "submission_id": "CF104213379",
+    "submission_url": "https://codeforces.com/contest/1328/submission/104213379",
+    "tags": [
+      "greedy",
+      "*2200"
+    ],
+    "timestamp": "Jan/13/2021 22:15"
+  },
   "CF104220814": {
     "contest_id": 1327,
     "language": "GNU C++17",
