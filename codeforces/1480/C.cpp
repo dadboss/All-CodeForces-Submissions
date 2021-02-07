@@ -96,7 +96,7 @@ void f(ll i,ll j)
 	}
 	if(a[mid+1]<a[mid])
 		f(mid+1,j);
-	else if(a[mid-1]<a[mid])
+	if(a[mid-1]<a[mid])
 		f(i,mid-1);
 }
 int main()
