@@ -1,4 +1,20 @@
 {
+  "CF106749393": {
+    "contest_id": 1108,
+    "language": "GNU C++17",
+    "path": "codeforces\\1108\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two distinct points",
+    "problem_url": "https://codeforces.com/contest/1108/problem/A",
+    "submission_id": "CF106749393",
+    "submission_url": "https://codeforces.com/contest/1108/submission/106749393",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/07/2021 19:59"
+  },
   "CF106750754": {
     "contest_id": 1480,
     "language": "GNU C++17",
