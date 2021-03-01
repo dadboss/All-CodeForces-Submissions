@@ -1,4 +1,20 @@
 {
+  "CF108802610": {
+    "contest_id": 255,
+    "language": "GNU C++17",
+    "path": "codeforces\\255\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Greg's Workout",
+    "problem_url": "https://codeforces.com/contest/255/problem/A",
+    "submission_id": "CF108802610",
+    "submission_url": "https://codeforces.com/contest/255/submission/108802610",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/01/2021 17:56"
+  },
   "CF108836892": {
     "contest_id": 1490,
     "language": "GNU C++17",
