@@ -1,4 +1,22 @@
 {
+  "CF111989660": {
+    "contest_id": 1510,
+    "language": "GNU C++17",
+    "path": "codeforces\\1510\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Digits",
+    "problem_url": "https://codeforces.com/contest/1510/problem/D",
+    "submission_id": "CF111989660",
+    "submission_url": "https://codeforces.com/contest/1510/submission/111989660",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*2100"
+    ],
+    "timestamp": "Apr/04/2021 15:43"
+  },
   "CF111996504": {
     "contest_id": 1510,
     "language": "GNU C++17",
