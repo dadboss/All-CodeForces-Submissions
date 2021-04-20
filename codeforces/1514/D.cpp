@@ -40,7 +40,7 @@ using namespace std;
 #define N 300009
 //typedef tree<int,null_type, less<int>, rb_tree_tag,tree_order_statistics_node_update> //pbds;
 ll fin[N],a[N],f[N],ct[N];
-ll blk=1000;
+ll blk=547;
 struct qu
 {
   ll l,r,ind;
