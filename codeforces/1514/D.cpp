@@ -64,7 +64,7 @@ int main()
   ll i=1;
   while(i<=n)
     cin>>a[i++];
-  //blk=ceil(sqrt(n));
+  blk=ceil(sqrt(n));
   i=0;
   while(i<t)
   {
