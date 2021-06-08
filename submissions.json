@@ -1,4 +1,19 @@
 {
+  "CF118843517": {
+    "contest_id": 697,
+    "language": "GNU C++17",
+    "path": "codeforces\\697\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Puzzles",
+    "problem_url": "https://codeforces.com/contest/697/problem/D",
+    "submission_id": "CF118843517",
+    "submission_url": "https://codeforces.com/contest/697/submission/118843517",
+    "tags": [
+      "*1700"
+    ],
+    "timestamp": "Jun/09/2021 05:22"
+  },
   "CF118881205": {
     "contest_id": 16,
     "language": "GNU C++17",
