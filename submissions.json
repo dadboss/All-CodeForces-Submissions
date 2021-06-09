@@ -1,4 +1,22 @@
 {
+  "CF118881205": {
+    "contest_id": 16,
+    "language": "GNU C++17",
+    "path": "codeforces\\16\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fish",
+    "problem_url": "https://codeforces.com/contest/16/problem/E",
+    "submission_id": "CF118881205",
+    "submission_url": "https://codeforces.com/contest/16/submission/118881205",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "probabilities",
+      "*1900"
+    ],
+    "timestamp": "Jun/09/2021 17:16"
+  },
   "CF118920693": {
     "contest_id": 626,
     "language": "GNU C++17",
