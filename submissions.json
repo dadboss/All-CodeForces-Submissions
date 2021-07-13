@@ -1,4 +1,22 @@
 {
+  "CF122386260": {
+    "contest_id": 560,
+    "language": "GNU C++17",
+    "path": "codeforces\\560\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Equivalent Strings",
+    "problem_url": "https://codeforces.com/contest/560/problem/D",
+    "submission_id": "CF122386260",
+    "submission_url": "https://codeforces.com/contest/560/submission/122386260",
+    "tags": [
+      "hashing",
+      "implementation",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jul/14/2021 03:33"
+  },
   "CF122386275": {
     "contest_id": 560,
     "language": "GNU C++17",

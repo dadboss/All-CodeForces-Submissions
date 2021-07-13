@@ -38,7 +38,7 @@ using namespace std;
 #define md 998244353 
 #define mod 1000000007
 #define N 200009
-string f(string a)
+string f(string &a)
 {
   if(a.size()%2)
       return a;
