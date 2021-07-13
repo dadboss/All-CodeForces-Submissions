@@ -1,4 +1,23 @@
 {
+  "CF122367373": {
+    "contest_id": 1547,
+    "language": "GNU C++17",
+    "path": "codeforces\\1547\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "How Many Paths?",
+    "problem_url": "https://codeforces.com/contest/1547/problem/G",
+    "submission_id": "CF122367373",
+    "submission_url": "https://codeforces.com/contest/1547/submission/122367373",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Jul/13/2021 22:27"
+  },
   "CF122368619": {
     "contest_id": 1546,
     "language": "GNU C++17",
