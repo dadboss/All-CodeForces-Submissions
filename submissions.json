@@ -1,4 +1,23 @@
 {
+  "CF122387087": {
+    "contest_id": 831,
+    "language": "GNU C++17",
+    "path": "codeforces\\831\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Office Keys",
+    "problem_url": "https://codeforces.com/contest/831/problem/D",
+    "submission_id": "CF122387087",
+    "submission_url": "https://codeforces.com/contest/831/submission/122387087",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Jul/14/2021 03:58"
+  },
   "CF122387969": {
     "contest_id": 1117,
     "language": "GNU C++17",
