@@ -1,4 +1,21 @@
 {
+  "CF135118466": {
+    "contest_id": 1605,
+    "language": "GNU C++17",
+    "path": "codeforces\\1605\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reverse Sort",
+    "problem_url": "https://codeforces.com/contest/1605/problem/B",
+    "submission_id": "CF135118466",
+    "submission_url": "https://codeforces.com/contest/1605/submission/135118466",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Nov/12/2021 20:26"
+  },
   "CF135127062": {
     "contest_id": 1605,
     "language": "GNU C++17",
