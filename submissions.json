@@ -1,4 +1,24 @@
 {
+  "CF137246934": {
+    "contest_id": 1609,
+    "language": "GNU C++17",
+    "path": "codeforces\\1609\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Social Network",
+    "problem_url": "https://codeforces.com/contest/1609/problem/D",
+    "submission_id": "CF137246934",
+    "submission_url": "https://codeforces.com/contest/1609/submission/137246934",
+    "tags": [
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees",
+      "*1600"
+    ],
+    "timestamp": "Nov/28/2021 21:10"
+  },
   "CF137634034": {
     "contest_id": 1613,
     "language": "GNU C++17",
