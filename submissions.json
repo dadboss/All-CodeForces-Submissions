@@ -1,4 +1,24 @@
 {
+  "CF137932862": {
+    "contest_id": 1350,
+    "language": "GNU C++17",
+    "path": "codeforces\\1350\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Orac and Game of Life",
+    "problem_url": "https://codeforces.com/contest/1350/problem/E",
+    "submission_id": "CF137932862",
+    "submission_url": "https://codeforces.com/contest/1350/submission/137932862",
+    "tags": [
+      "data structures",
+      "graphs",
+      "implementation",
+      "math",
+      "shortest paths",
+      "*2000"
+    ],
+    "timestamp": "Dec/04/2021 06:18"
+  },
   "CF137934150": {
     "contest_id": 776,
     "language": "GNU C++17",
