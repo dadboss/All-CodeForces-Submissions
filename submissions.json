@@ -1,4 +1,21 @@
 {
+  "CF138038624": {
+    "contest_id": 454,
+    "language": "GNU C++17",
+    "path": "codeforces\\454\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Little Pony and Harmony Chest",
+    "problem_url": "https://codeforces.com/contest/454/problem/D",
+    "submission_id": "CF138038624",
+    "submission_url": "https://codeforces.com/contest/454/submission/138038624",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Dec/05/2021 08:20"
+  },
   "CF138144389": {
     "contest_id": 938,
     "language": "GNU C++17",
