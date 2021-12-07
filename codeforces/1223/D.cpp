@@ -9,9 +9,9 @@ using namespace std;
 #define Deb(x,y,z) cout<<x<<" "<<y<<" "<<z<<"\n";
 #define YES cout<<"YES\n";
 #define Yes cout<<"Yes\n";
-#define NO cout<<"NO\n"hi
+#define NO cout<<"NO\n";
 #define No cout<<"No\n";
-#define clt(x) 63-__builtin_clzll(x)   
+#define clt(x) 63-__builtin_clzll(x)
 #define bct(x) __builtin_popcountll(x)
 #define all(v) (v).begin(),(v).end()
 #define pi pair<ll,ll>
