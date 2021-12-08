@@ -1,4 +1,21 @@
 {
+  "CF138392399": {
+    "contest_id": 864,
+    "language": "GNU C++17",
+    "path": "codeforces\\864\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Fire",
+    "problem_url": "https://codeforces.com/contest/864/problem/E",
+    "submission_id": "CF138392399",
+    "submission_url": "https://codeforces.com/contest/864/submission/138392399",
+    "tags": [
+      "dp",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "Dec/08/2021 07:16"
+  },
   "CF138393072": {
     "contest_id": 598,
     "language": "GNU C++17",
