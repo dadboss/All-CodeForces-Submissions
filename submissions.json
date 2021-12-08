@@ -1,4 +1,21 @@
 {
+  "CF138393072": {
+    "contest_id": 598,
+    "language": "GNU C++17",
+    "path": "codeforces\\598\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Chocolate Bar",
+    "problem_url": "https://codeforces.com/contest/598/problem/E",
+    "submission_id": "CF138393072",
+    "submission_url": "https://codeforces.com/contest/598/submission/138393072",
+    "tags": [
+      "brute force",
+      "dp",
+      "*2000"
+    ],
+    "timestamp": "Dec/08/2021 07:43"
+  },
   "CF138502482": {
     "contest_id": 556,
     "language": "GNU C++17",
