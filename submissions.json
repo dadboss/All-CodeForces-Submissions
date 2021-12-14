@@ -1,4 +1,25 @@
 {
+  "CF139274858": {
+    "contest_id": 1618,
+    "language": "GNU C++14",
+    "path": "codeforces\\1618\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Reverse",
+    "problem_url": "https://codeforces.com/contest/1618/problem/F",
+    "submission_id": "CF139274858",
+    "submission_url": "https://codeforces.com/contest/1618/submission/139274858",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "implementation",
+      "math",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Dec/14/2021 21:10"
+  },
   "CF140017142": {
     "contest_id": 1619,
     "language": "GNU C++14",
