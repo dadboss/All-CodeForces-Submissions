@@ -1,4 +1,23 @@
 {
+  "CF141204402": {
+    "contest_id": 817,
+    "language": "GNU C++17",
+    "path": "codeforces\\817\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Makes And The Product",
+    "problem_url": "https://codeforces.com/contest/817/problem/B",
+    "submission_id": "CF141204402",
+    "submission_url": "https://codeforces.com/contest/817/submission/141204402",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Dec/31/2021 05:59"
+  },
   "CF141205043": {
     "contest_id": 1045,
     "language": "GNU C++17",
