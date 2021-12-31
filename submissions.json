@@ -1,4 +1,21 @@
 {
+  "CF141205043": {
+    "contest_id": 1045,
+    "language": "GNU C++17",
+    "path": "codeforces\\1045\\I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Palindrome Pairs",
+    "problem_url": "https://codeforces.com/contest/1045/problem/I",
+    "submission_id": "CF141205043",
+    "submission_url": "https://codeforces.com/contest/1045/submission/141205043",
+    "tags": [
+      "hashing",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Dec/31/2021 06:26"
+  },
   "CF141205436": {
     "contest_id": 193,
     "language": "GNU C++17",
