@@ -1,4 +1,22 @@
 {
+  "CF141204280": {
+    "contest_id": 995,
+    "language": "GNU C++17",
+    "path": "codeforces\\995\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Suit and Tie",
+    "problem_url": "https://codeforces.com/contest/995/problem/B",
+    "submission_id": "CF141204280",
+    "submission_url": "https://codeforces.com/contest/995/submission/141204280",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Dec/31/2021 05:54"
+  },
   "CF141204402": {
     "contest_id": 817,
     "language": "GNU C++17",
