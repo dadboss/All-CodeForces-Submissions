@@ -1,4 +1,22 @@
 {
+  "CF141269074": {
+    "contest_id": 1223,
+    "language": "GNU C++17",
+    "path": "codeforces\\1223\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Sequence Sorting",
+    "problem_url": "https://codeforces.com/contest/1223/problem/D",
+    "submission_id": "CF141269074",
+    "submission_url": "https://codeforces.com/contest/1223/submission/141269074",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*2000"
+    ],
+    "timestamp": "Jan/01/2022 00:00"
+  },
   "CF141442967": {
     "contest_id": 135,
     "language": "GNU C++17",
