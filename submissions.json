@@ -1,4 +1,22 @@
 {
+  "CF141542705": {
+    "contest_id": 1621,
+    "language": "GNU C++17",
+    "path": "codeforces\\1621\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Winter Hike",
+    "problem_url": "https://codeforces.com/contest/1621/problem/D",
+    "submission_id": "CF141542705",
+    "submission_url": "https://codeforces.com/contest/1621/submission/141542705",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Jan/03/2022 21:23"
+  },
   "CF141596151": {
     "contest_id": 263,
     "language": "GNU C++17",
