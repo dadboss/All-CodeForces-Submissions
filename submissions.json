@@ -1,4 +1,22 @@
 {
+  "CF141690043": {
+    "contest_id": 1033,
+    "language": "GNU C++17",
+    "path": "codeforces\\1033\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Permutation Game",
+    "problem_url": "https://codeforces.com/contest/1033/problem/C",
+    "submission_id": "CF141690043",
+    "submission_url": "https://codeforces.com/contest/1033/submission/141690043",
+    "tags": [
+      "brute force",
+      "dp",
+      "games",
+      "*1600"
+    ],
+    "timestamp": "Jan/05/2022 07:48"
+  },
   "CF141690608": {
     "contest_id": 538,
     "language": "GNU C++17",
