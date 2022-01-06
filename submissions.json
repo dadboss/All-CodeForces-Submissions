@@ -1,4 +1,21 @@
 {
+  "CF141817760": {
+    "contest_id": 1068,
+    "language": "GNU C++17",
+    "path": "codeforces\\1068\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Colored Rooks",
+    "problem_url": "https://codeforces.com/contest/1068/problem/C",
+    "submission_id": "CF141817760",
+    "submission_url": "https://codeforces.com/contest/1068/submission/141817760",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1700"
+    ],
+    "timestamp": "Jan/06/2022 18:04"
+  },
   "CF141830336": {
     "contest_id": 567,
     "language": "GNU C++17",
