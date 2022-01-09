@@ -1,4 +1,21 @@
 {
+  "CF142040285": {
+    "contest_id": 678,
+    "language": "GNU C++17",
+    "path": "codeforces\\678\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Iterated Linear Function",
+    "problem_url": "https://codeforces.com/contest/678/problem/D",
+    "submission_id": "CF142040285",
+    "submission_url": "https://codeforces.com/contest/678/submission/142040285",
+    "tags": [
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Jan/09/2022 06:31"
+  },
   "CF142040517": {
     "contest_id": 31,
     "language": "GNU C++17",
