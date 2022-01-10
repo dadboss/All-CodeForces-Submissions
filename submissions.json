@@ -1,4 +1,20 @@
 {
+  "CF142130888": {
+    "contest_id": 15,
+    "language": "GNU C++17",
+    "path": "codeforces\\15\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Laser",
+    "problem_url": "https://codeforces.com/contest/15/problem/B",
+    "submission_id": "CF142130888",
+    "submission_url": "https://codeforces.com/contest/15/submission/142130888",
+    "tags": [
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Jan/10/2022 08:05"
+  },
   "CF142188801": {
     "contest_id": 1624,
     "language": "GNU C++17",
