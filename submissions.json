@@ -1,4 +1,22 @@
 {
+  "CF142314111": {
+    "contest_id": 846,
+    "language": "GNU C++17",
+    "path": "codeforces\\846\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Four Segments",
+    "problem_url": "https://codeforces.com/contest/846/problem/C",
+    "submission_id": "CF142314111",
+    "submission_url": "https://codeforces.com/contest/846/submission/142314111",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "Jan/11/2022 06:00"
+  },
   "CF142829780": {
     "contest_id": 1627,
     "language": "GNU C++17",
