@@ -1,4 +1,21 @@
 {
+  "CF143636251": {
+    "contest_id": 1629,
+    "language": "GNU C++17",
+    "path": "codeforces\\1629\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "GCD Arrays",
+    "problem_url": "https://codeforces.com/contest/1629/problem/B",
+    "submission_id": "CF143636251",
+    "submission_url": "https://codeforces.com/contest/1629/submission/143636251",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jan/22/2022 20:12"
+  },
   "CF143652776": {
     "contest_id": 1629,
     "language": "GNU C++17",
